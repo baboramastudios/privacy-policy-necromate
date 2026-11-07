@@ -54,10 +54,10 @@ Supporters (see section 7) see no ads.
 
 To request and show ads, the App uses the **Google Mobile Ads SDK** provided by Google. Google may collect and process, among other things:
 
-* **Device and advertising identifiers,** such as the Android advertising ID
-* **Approximate location,** derived from your IP address
+* **Device and advertising identifiers,** such as the Android advertising ID and app set ID
+* **IP address,** which may be used to estimate your approximate location
 * **App interactions,** such as when an ad is requested, shown, or completed
-* **Diagnostics and performance information,** such as crash logs
+* **Diagnostics and performance information,** such as app launch time and how the app and the advertising software perform
 
 Google uses this data to serve and measure ads, to prevent fraud and abuse, and, where you have allowed it, to personalize ads. This data is collected by Google, not by Baborama Studios. Google's handling of it is described in:
 
